@@ -1,9 +1,9 @@
 # Car-Make-Model
-#Task:
-#Given two car images, the developed system must check if they have the same make and model 
-#§ Binaryoutput (1=samemake-model, 0=differentmake or differentmodel) 
- Difficulties:
- § Carswith the samemake-model may have different colors 
+Task: <br />
+Given two car images, the developed system must check if they have the same make and model <br />
+§ Binaryoutput (1=samemake-model, 0=differentmake or differentmodel) <br />
+ Difficulties:<br />
+ § Carswith the samemake-model may have different colors <br />
  § Different lighting conditions 
  § Car photographs taken from different positions (e.g. front, side…)
  Verification:
