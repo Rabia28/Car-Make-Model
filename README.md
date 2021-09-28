@@ -16,3 +16,8 @@ MAKES: <br />
 ['acura', 'audi', 'bmw', 'cadillac', 'chevrolet', 'chrysler', 'ford', 'honda', 'hyundai', 'infiniti', 'jeep', 'nissan', 'toyota', 'volkswagen'] <br />
 Architecture Used: <br />
 Siamese Neural Network Architecture <br />
+Dataset: <be />
+The dataset is available at the link: <br />
+https://drive.google.com/drive/u/1/folders/1BlfiSjdeiX5elwDLsquK4oVDm5G-AklH  <br />
+
+
